@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# <span style="color:white">Home</span>
+
 ## About me
 
 I am a Lecturer in the <a href="http://www.essex.ac.uk/government/">Department of Government</a> at <a href="http://www.essex.ac.uk/">University of Essex</a>.
