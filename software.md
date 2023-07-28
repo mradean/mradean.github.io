@@ -20,12 +20,12 @@ This command opens a content page telling you about the available software packa
 A package-description page describes the package and tells you how to install the component files.
 
 ```stata
-. net describe _pkgname_
+<pre>. net describe <i>pkgname</i></pre>
 ```
 
 You install the official files by typing net install followed by the package name.
 ```stata
-. net install _pkgname_
+. net install <i>pkgname</i>
 ```
 
 You get the ancillary files—if there are any and if you want them—by typing net get followed by the package name: ```. net install _pkgname_```
