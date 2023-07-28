@@ -19,9 +19,9 @@ This command opens a content page telling you about the available software packa
 
 A package-description page describes the package and tells you how to install the component files.
 
-```stata
-<pre>. net describe <i>pkgname</i></pre>
-```
+<pre>
+. net describe <i>pkgname</i>
+</pre>
 
 You install the official files by typing net install followed by the package name.
 ```stata
