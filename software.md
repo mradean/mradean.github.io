@@ -33,7 +33,7 @@ To install the official files (the ado- and help-file), type ```net install``` f
 To get the ancillary file (the user's manual in PDF format), type ```net get``` followed by the package name.
 
 <pre>
-. net install <i>pkgname</i>
+. net get <i>pkgname</i>
 </pre>
 
 Instead of typing ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
