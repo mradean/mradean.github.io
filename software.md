@@ -46,7 +46,7 @@ If you do not wish to install the software now and prefer to download a copy of 
 * [ginteffplot zip package][2]
 * [sdii zip package][3]
 
-[1]:https://mradean.github.io/minimal//ginteff_program.zip
+[1]:{{ site.url }}/ginteff_program.zip
 [2]:https://mradean.github.io/minimal//ginteffplot_program.zip
 [3]:https://mradean.github.io/minimal/sdii_program.zip
 
