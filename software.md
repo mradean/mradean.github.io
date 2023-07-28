@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<span style="color:blue">some *Software* text</span>.
+
 ## List of available software
 
 * Item sdii current version: v1
