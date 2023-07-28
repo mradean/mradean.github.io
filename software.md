@@ -38,13 +38,12 @@ To get the ancillary file (the user's manual in PDF format), type ```net get``` 
 
 Instead of typing ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
 
-## Download a zip folder on your computer
+## Download a copy of the zip package
 
 If you do not wish to install the software now and prefer to download a copy of the zip package on your computer instead, you can do that by clicking on the respective link below.
 
 * [ginteff zip package][1]
 * [ginteffplot zip package][2]
-
 * [sdii zip package][3]
 
 [1]:https://mradean.github.io/minimal//ginteff_program.zip
