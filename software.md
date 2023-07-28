@@ -18,13 +18,13 @@ The command line below To open a content page telling you about the available so
 . net from https://mariusradean.org
 ```
 
-To open the package-description page detailing the package and how to install the component files, type ``net describe``` followed by the package name. _pkgname_ may be any of the available software packages, ie, ```ginteff.pkg```, ```ginteffplot.pkg```, or ```sdii.pkg```.
+To open the package-description page detailing the package and how to install the component files, type ```net describe``` followed by the package name. _pkgname_ may be any of the available software packages, ie, ```ginteff.pkg```, ```ginteffplot.pkg```, or ```sdii.pkg```.
 
 <pre>
 . net describe <i>pkgname</i>
 </pre>
 
-To install the official files (the ado- and help-file), type ``net install``` followed by the package name.
+To install the official files (the ado- and help-file), type ```net install``` followed by the package name.
 
 <pre>
 . net install <i>pkgname</i>
