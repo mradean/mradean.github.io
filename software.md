@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<span style="color:blue">some *Software* text</span>.
+# <span style="color:white">Software</span>
 
 ## List of available software
 
