@@ -6,7 +6,7 @@ layout: default
 
 * Item sdii current version: v1
 
-## Direct instalation in Stata
+## Direct instalation in ```Stata```
 
 ```stata
 // Stata console
@@ -18,19 +18,17 @@ This command opens a content page telling you about the available software packa
 A package-description page describes the package and tells you how to install the component files.
 
 ```stata
-. net describe __pkgname__
+. net describe _pkgname_
 ```
 
 You install the official files by typing net install followed by the package name.
 ```stata
-. net install __pkgname__
+. net install _pkgname_
 ```
 
-You get the ancillary files—if there are any and if you want them—by typing net get followed by the package name: ```stata
-. net install __pkgname__
-```
+You get the ancillary files—if there are any and if you want them—by typing net get followed by the package name: ```. net install _pkgname_```
 
-You do not necessarify have to type the 'net describe __pkgname__', 'net install __pkgname__', or 'net get __pkgname__' commands. Alternatively, you can click on the links provided on the content and package-description pages, respectively.
+You do not necessarify have to type the 'net describe _pkgname_', 'net install _pkgname_', or ```net get``` _pkgname_ commands. Alternatively, you can click on the links provided on the content and package-description pages, respectively.
 
 Where packages are installed. Packages should be installed in PLUS or SITE, which are code words that Stata understands and
 that correspond to some real directories on your computer. Typing sysdir will tell you where these
