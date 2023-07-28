@@ -10,9 +10,9 @@ layout: default
 
 ## Direct instalation in ```Stata```
 
-If it is the first time you are installing user-written programs from internet, you may find it useful to read the official ```Stata``` documentation. There you can find details about the commands used below as well as information about the directories where the downloaded packages should be installed (https://www.stata.com/manuals/rnet.pdf).
+If it is the first time you are installing user-written programs from internet, you may find it useful to read the official ```Stata``` documentation (https://www.stata.com/manuals/rnet.pdf). There you can find details about the commands used below as well as information about the directories where the downloaded packages should be installed.
 
-The command line below To open a content page telling you about the available software packages on my website, you should type the following in ```Stata```'s command window 
+To open a content page telling you about the available software packages on my website, you should type the following in ```Stata```'s command window 
 
 ```stata
 . net from https://mariusradean.org
@@ -36,14 +36,15 @@ To get the ancillary file (the user's manual in PDF format), type ```net get``` 
 . net install <i>pkgname</i>
 </pre>
 
-Instead of typing the ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
+Instead of typing ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
 
 ## Download a zip folder on your computer
 
-If you do not wish to install the software now and prefer to download a zip package on your computer, you can do that by clicking on the respective link below.
+If you do not wish to install the software now and prefer to download a copy of the zip package on your computer instead, you can do that by clicking on the respective link below.
 
 * [ginteff zip package][1]
 * [ginteffplot zip package][2]
+
 * [sdii zip package][3]
 
 [1]:https://mradean.github.io/minimal//ginteff_program.zip
