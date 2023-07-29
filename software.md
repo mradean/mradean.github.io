@@ -29,13 +29,13 @@ Below is the list of software that you can choose from, alonside a short descrip
 
 If this is the first time you are installing user-written programs from internet, you may find it useful to read the official ```Stata``` <a href="https://www.stata.com/manuals/rnet.pdf">documentation</a>. There you can find details about the commands used below as well as information about the directories where the downloaded packages should be installed.
 
-To open a content page telling you about the available software packages on my website, type the following in ```Stata```'s command window 
+To open the content page telling you about the available software packages on my website, type the following in ```Stata```'s command window 
 
 ```stata
 . net from https://mariusradean.org
 ```
 
-To open the package-description page detailing the package and how to install the component files, type ```net describe``` followed by the package name. _pkgname_ may be any of the available software packages, ie, ```ginteff.pkg```, ```ginteffplot.pkg```, or ```sdii.pkg```.
+To open the package-description page detailing one of the listed packages and how to install the associated component files, type ```net describe``` followed by the package name. _pkgname_ may be any of the available software packages, ie, ```ginteff.pkg```, ```ginteffplot.pkg```, or ```sdii.pkg```.
 
 <pre>
 . net describe <i>pkgname</i>
@@ -57,11 +57,11 @@ Instead of typing ```net describe```, ```net install```, or ```net get``` comman
 
 ## Download a copy of the zip package
 
-If you do not wish to install the software now and prefer to download a copy of the zip package on your computer, you can do so by clicking on the respective link below.
+If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective link below.
 
-* [ginteff zip package][1]
-* [ginteffplot zip package][2]
-* [sdii zip package][3]
+* [ginteff ZIP][1]
+* [ginteffplot ZIP][2]
+* [sdii ZIP][3]
 
 [1]:{{ site.url }}/ginteff_program.zip
 [2]:./ginteff_program.zip
