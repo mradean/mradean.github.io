@@ -4,13 +4,21 @@ layout: default
 
 # <span style="color:white">Software</span>
 
-## List of available software
+## Available software
 
-* Item sdii current version: v1
+Below is the list of software that you can choose from, alonside a short description and the most recent version.
+
+- ```ginteff``` &mdash; computes the average and individual-level interaction effects for two- and three-way interactions. The effect of the interacted variables can be computed via either the partial derivate or the first difference. Version: v1.
+  
+- ```ginteffplot``` &mdash; graphs the results of the immediately preceding ```ginteff``` command. Version: v1.
+  
+- ```sdii``` &mdash; computes significance of differences intervals to indicate whether two points estimates (typically the mean of distributions or of samples from the study population) are statistically or substantively distinct. Version: v1.
+
+ - Related <a href="https://www.journals.uchicago.edu/doi/10.1086/723999">article</a>.
 
 ## Direct instalation in ```Stata```
 
-If this is the first time you are installing user-written programs from internet, you may find it useful to read the official ```Stata``` documentation <https://www.stata.com/manuals/rnet.pdf). There you can find details about the commands used below as well as information about the directories where the downloaded packages should be installed.
+If this is the first time you are installing user-written programs from internet, you may find it useful to read the official ```Stata``` <a href="https://www.stata.com/manuals/rnet.pdf">documentation</a>. There you can find details about the commands used below as well as information about the directories where the downloaded packages should be installed.
 
 To open a content page telling you about the available software packages on my website, type the following in ```Stata```'s command window 
 
@@ -47,7 +55,7 @@ If you do not wish to install the software now and prefer to download a copy of 
 * [sdii zip package][3]
 
 [1]:{{ site.url }}/ginteff_program.zip
-[1]:(./ginteff_program.zip)
+[2]:(./ginteff_program.zip)
 [3]:https://mradean.github.io/minimal/sdii_program.zip
 
 [back](./)
