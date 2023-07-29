@@ -18,4 +18,4 @@ The easiest way to contact me is via email at <mradean@essex.ac.uk>
 
 ### Software
 
-For information on the software I developed (including updates, instalation and dowload options), visit the dedicated [page](./software.html).
+For information on the software that I developed (including updates, instalation and dowload options), visit the dedicated [page](./software.html).
