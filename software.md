@@ -64,7 +64,7 @@ If you do not wish to install the software now and prefer to download a copy of 
 * [sdii zip package][3]
 
 [1]:{{ site.url }}/ginteff_program.zip
-[2]:(./ginteff_program.zip)
-[3]:https://mradean.github.io/minimal/sdii_program.zip
+[2]:./ginteff_program.zip
+[3]:https://mradean.github.io/new/ginteff_program.zip
 
 [back](./)
