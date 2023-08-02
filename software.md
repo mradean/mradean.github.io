@@ -6,11 +6,12 @@ layout: default
   
 ## Available software
 
-Below is the list of software that you can choose from, alonside a short description and the most recent version.
+Below is the list of software I developped, alonside a short description and the most recent version.
 
-- ```ginteff``` &mdash; computes the average and individual-level interaction effects for two- and three-way interactions. The effect of the interacted variables can be computed via either the partial derivate or the first difference. Version: v1.
+- ```ginteff``` &mdash; computes the average and individual-level interaction effects for two- and three-way interactions. Version: v1.
 
   - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteff_manual.pdf">user's manual</a>.
+  - 
   - Please cite as follows:  
   Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
   
@@ -21,7 +22,9 @@ Below is the list of software that you can choose from, alonside a short descrip
   - Please cite as follows:  
   Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
   
-- ```sdii``` &mdash; computes significance of differences intervals to indicate whether two points estimates (typically the mean of distributions or of samples from the study population) are statistically or substantively distinct. Version: v1.
+- ```sdii``` &mdash; computes significance of differences intervals to indicate whether two points estimates are statistically or substantively distinct. Version: v1.
+
+  - For more information on the software's features and capabilities, you may browse the <a href="./downloads/sdii_manual.pdf">user's manual</a>.
 
   - Please cite as follows:  
   Radean, Marius. 2023. "The Significance of Differences Interval: Assessing the Statistical and Substantive Difference between Two Quantities of Interest." *The Journal of Politics*, 85(3): 969-983. DOI: <https://doi.org/10.1086/723999">.
