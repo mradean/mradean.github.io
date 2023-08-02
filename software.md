@@ -16,6 +16,8 @@ Below is the list of software that you can choose from, alonside a short descrip
   
 - ```ginteffplot``` &mdash; graphs the results of the immediately preceding ```ginteff``` command. Version: v1.
 
+  - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteffplot_manual.pdf">user's manual</a>.
+
   - Please cite as follows:  
   Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
   
