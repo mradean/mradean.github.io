@@ -11,7 +11,7 @@ Below is the list of software I developped, alonside a short description and the
 - ```ginteff``` &mdash; computes the average and individual-level interaction effects for two- and three-way interactions. Version: v1.
 
   - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteff_manual.pdf">user's manual</a>.
-  - 
+
   - Please cite as follows:  
   Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
   
