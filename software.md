@@ -10,9 +10,7 @@ Below is the list of software that you can choose from, alonside a short descrip
 
 - ```ginteff``` &mdash; computes the average and individual-level interaction effects for two- and three-way interactions. The effect of the interacted variables can be computed via either the partial derivate or the first difference. Version: v1.
 
-  - To decide whether the software might prove useful, you may read about its features and capabilities by browsing the <a href="./downloads/ginteff_manual.pdf">user's manual</a>.
-  <a href="mariusradean.org/downloads/ginteff_manual.pdf">user's manual</a>.
-
+  - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteff_manual.pdf">user's manual</a>.
   - Please cite as follows:  
   Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
   
