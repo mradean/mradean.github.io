@@ -60,15 +60,15 @@ Instead of typing ```net describe```, ```net install```, or ```net get``` comman
 
 ## Download a copy of the zip package
 
-If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective link below. Each ZIP folder contains three files: 1) an ado-file (the program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
+If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective link below. Each ZIP folder contains three files: 1) an ado-file (the actual program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
 
 * [ginteff ZIP][1]
 * [ginteffplot ZIP][2]
 * [sdii ZIP][3]
 
-[1]:{{ site.url }}/ginteff_program.zip
-[2]:./downloads/ginteff.zip
-[3]:https://mradean.github.io/new/ginteff_program.zip
+[1]:./downloads/ginteff.zip
+[2]:./downloads/ginteffplot.zip
+[3]:./downloads/sdii.zip
 
 <br/>
 
