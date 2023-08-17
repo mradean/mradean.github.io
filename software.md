@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 ---
 
-# <span style="color:white">Software</span>
+# &nbsp;
   
 ## Available software
 
