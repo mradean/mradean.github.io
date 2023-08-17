@@ -14,8 +14,6 @@ My research focuses on democratic representation and accountability, legislative
 
 The easiest way to contact me is via email at <mradean@essex.ac.uk>
 
-<i class="fa fa-envelope"></i>
-
 <br/>
 
 ### Software
