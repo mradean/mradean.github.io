@@ -4,3 +4,8 @@ description: Welcome to my personal webpage!
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+sidebar:
+ - name: Blog
+    icon: <i class="fa-solid fa-pen"></i>
+    link: https://mariusradean.org
