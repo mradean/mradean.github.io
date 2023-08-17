@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 ---
 
 # <span style="color:white">Software</span>
@@ -67,9 +67,9 @@ Instead of typing ```net describe```, ```net install```, or ```net get``` comman
 
 If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective link below. Each ZIP folder contains three files: 1) an ado-file (the actual program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
 
-* [ginteff ZIP][1]
-* [ginteffplot ZIP][2]
-* [sdii ZIP][3]
+* [ginteff.zip][1]
+* [ginteffplot.zip][2]
+* [sdii.zip][3]
 
 [1]:./downloads/ginteff.zip
 [2]:./downloads/ginteffplot.zip
@@ -77,4 +77,4 @@ If you do not wish to install the software now and prefer to download a copy on 
 
 <br/>
 
-[back](./)
+[home](./)
