@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# <span style="color:white">Home</span>
+# &nbsp;
 
 ## About me
 
@@ -14,8 +14,10 @@ My research focuses on democratic representation and accountability, legislative
 
 The easiest way to contact me is via email at <mradean@essex.ac.uk>
 
+<!---
 <br/>
 
 ### Software
 
 For information on the software that I developed (including updates, instalation and dowload options), visit the dedicated [page](./software.html).
+--->
