@@ -75,10 +75,6 @@ If you do not wish to install the software now and prefer to download a copy on 
 [2]:./downloads/ginteffplot.zip
 [3]:./downloads/sdii.zip
 
-        <ul class="downloads">
-          <li><a href="../downloads/ginteff.zip">Download <strong>ZIP File</strong></a></li>
-        </ul>
-
 <br/>
 
 [home](./)
