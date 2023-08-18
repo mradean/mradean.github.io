@@ -59,13 +59,13 @@ To get the ancillary file (the user's manual in PDF format), type ```net get``` 
 . net get <i>pkgname</i>
 </pre>
 
-Instead of typing ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
+Note: Instead of typing ```net describe```, ```net install```, or ```net get``` command lines, you can alternatively click on the links provided on the content and package-description pages.
 
 <br/>
 
 ## Download a copy of the zip package
 
-If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective link below. Each ZIP folder contains three files: 1) an ado-file (the actual program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
+If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective package below. Each ZIP folder contains three files: 1) an ado-file (the actual program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
 
 * [ginteff.zip][1]
 * [ginteffplot.zip][2]
@@ -74,6 +74,10 @@ If you do not wish to install the software now and prefer to download a copy on 
 [1]:./downloads/ginteff.zip
 [2]:./downloads/ginteffplot.zip
 [3]:./downloads/sdii.zip
+
+        <ul class="downloads">
+          <li><a href="../downloads/ginteff.zip">Download <strong>ZIP File</strong></a></li>
+        </ul>
 
 <br/>
 
