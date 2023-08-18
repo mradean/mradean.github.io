@@ -13,21 +13,21 @@ Below is the list of software I developped, alonside a short description and the
   - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteff_manual.pdf">user's manual</a>.
 
   - Please cite as follows:  
-  Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
+  Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253>.
   
 - ```ginteffplot``` &mdash; graphs the results of the immediately preceding ```ginteff``` command. Version: v1.
 
   - For more information on the software's features and capabilities, you may browse the <a href="./downloads/ginteffplot_manual.pdf">user's manual</a>.
 
   - Please cite as follows:  
-  Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253">.
+  Radean, Marius. 2023. "ginteff: A generalized command for computing interaction effects." *The Stata Journal*, 23(2): 301-335. DOI: <https://doi.org/10.1177/1536867X231175253>.
   
 - ```sdii``` &mdash; computes significance of differences intervals to indicate whether two points estimates are statistically or substantively distinct. Version: v1.
 
   - For more information on the software's features and capabilities, you may browse the <a href="./downloads/sdii_manual.pdf">user's manual</a>.
 
   - Please cite as follows:  
-  Radean, Marius. 2023. "The Significance of Differences Interval: Assessing the Statistical and Substantive Difference between Two Quantities of Interest." *The Journal of Politics*, 85(3): 969-983. DOI: <https://doi.org/10.1086/723999">.
+  Radean, Marius. 2023. "The Significance of Differences Interval: Assessing the Statistical and Substantive Difference between Two Quantities of Interest." *The Journal of Politics*, 85(3): 969-983. DOI: <https://doi.org/10.1086/723999>.
 
 <br/>
 
