@@ -63,7 +63,7 @@ Note: Instead of typing ```net describe```, ```net install```, or ```net get``` 
 
 <br/>
 
-## Download a copy of the zip package
+## Download a copy as a zip package
 
 If you do not wish to install the software now and prefer to download a copy on your computer, you can do so by clicking on the respective package below. Each ZIP folder contains three files: 1) an ado-file (the actual program file), 2) the associated ```Stata``` help file, and 3) the user's manual in PDF format.
 
