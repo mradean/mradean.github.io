@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 
-I am a Lecturer in the <a href="http://www.essex.ac.uk/government/">Department of Government</a> at <a href="http://www.essex.ac.uk/">University of Essex</a>.
+I am an Associate Professor in the <a href="http://www.essex.ac.uk/government/">Department of Government</a> at <a href="http://www.essex.ac.uk/">University of Essex</a>.
 
 My research focuses on democratic representation and accountability, legislative parties, democratic survival, and quantitative methodology.
 
