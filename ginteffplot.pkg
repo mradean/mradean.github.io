@@ -1,0 +1,6 @@
+v 1
+d ginteffplot: graph results from ginteff
+d Marius Radean
+f downloads/ginteffplot.ado
+f downloads/ginteffplot.sthlp
+f downloads/ginteffplot_manual.pdf
