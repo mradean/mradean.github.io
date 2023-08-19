@@ -1,6 +1,6 @@
 v 1
 d My Software
 d Marius Radean
-p ginteff: compute two- and three-way interaction effects
-p ginteffplot: graph results from ginteff
-p sdii: compute significance of differences intervals
+p ginteff compute two- and three-way interaction effects
+p ginteffplot graph results from ginteff
+p sdii compute significance of differences intervals
