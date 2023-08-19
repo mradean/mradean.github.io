@@ -18,4 +18,4 @@ layout: default
   
 - Radean, Marius. 2019. "Sometimes you cannot have it all: Party switching and affiliation motivations as substitutes." *Party Politics*, 25(2): 140–152. DOI: <https://doi.org/10.1177/1354068816688363>
 
-- Reenock, Christopher, Jeffrey K. Staton, and Marius Radean. 2013 "Legal Institutions and Democratic Survival." *The Journal of Politics*, 75(2): 491-505. DOI: <https://doi.org/10.1017/S0022381613000169>
+- Reenock, Christopher, Jeffrey K. Staton, and Marius Radean. 2013. "Legal Institutions and Democratic Survival." *The Journal of Politics*, 75(2): 491-505. DOI: <https://doi.org/10.1017/S0022381613000169>
